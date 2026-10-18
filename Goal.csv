@@ -1,0 +1,11 @@
+MatchEventID,MatchReportID,HalfID,MatchID,MatchParticipantID,SportsPersonID,DirectOrIndirect
+1,1,1,1,1,11,Direct
+2,1,2,1,1,12,Direct
+3,2,1,2,3,13,Indirect
+4,3,2,3,5,14,Direct
+5,4,1,4,7,15,Indirect
+6,5,2,5,9,16,Direct
+7,6,1,6,11,17,Direct
+8,7,2,7,13,18,Indirect
+9,8,1,8,15,19,Direct
+10,9,2,9,17,20,Direct

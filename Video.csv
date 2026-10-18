@@ -1,0 +1,11 @@
+ContentID,Category,MatchReportID,VideoFile
+21,Goals,1,/assets/videos/top10-goals.mp4
+22,Saves,2,/assets/videos/top-saves.mp4
+23,Assists,3,/assets/videos/top-assists.mp4
+24,Comebacks,4,/assets/videos/great-comebacks.mp4
+25,Legendary,5,/assets/videos/legendary-goals.mp4
+26,Training,6,/assets/videos/training-highlights.mp4
+27,Tactical,7,/assets/videos/tactical-analysis.mp4
+28,YoungStars,8,/assets/videos/rising-stars.mp4
+29,Highlights,9,/assets/videos/match-highlights.mp4
+30,Skills,10,/assets/videos/top-skills.mp4

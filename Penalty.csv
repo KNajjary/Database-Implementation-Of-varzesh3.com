@@ -1,0 +1,11 @@
+MatchEventID,MatchReportID,HalfID,MatchID,MatchParticipantID,SportsPersonID,Result,Type
+21,1,1,1,1,11,Goal,Normal
+22,1,2,1,2,12,Saved,Normal
+23,2,3,2,1,13,Missed,Normal
+24,2,4,2,2,14,Goal,Shootout
+25,3,5,3,1,15,Goal,Normal
+26,3,6,3,2,16,Saved,Shootout
+27,4,7,4,1,17,Missed,Normal
+28,4,8,4,2,18,Goal,Normal
+29,5,9,5,1,19,Goal,Shootout
+30,5,10,5,2,20,Saved,Normal

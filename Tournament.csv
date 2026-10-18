@@ -1,0 +1,31 @@
+GameID,Name,Gender,Host,SeasonYear,NationalOrClubOrClubInternational
+1,FIFA World Cup 2022,Male,Qatar,2022,National
+2,AFC Asian Cup 2023,Male,Qatar,2023,National
+3,UEFA Euro 2024,Male,Germany,2024,National
+4,Copa America 2024,Male,United States,2024,National
+5,Premier League 2023/24,Male,England,2024,Club
+6,La Liga 2023/24,Male,Spain,2024,Club
+7,UEFA Champions League 2023/24,Male,Europe,2024,ClubInternational
+8,FIFA Women's World Cup 2023,Female,Australia-New Zealand,2023,National
+9,Serie A 2023/24,Male,Italy,2024,Club
+10,Bundesliga 2023/24,Male,Germany,2024,Club
+11,Ligue 1 2023/24,Male,France,2024,Club
+12,Eredivisie 2023/24,Male,Netherlands,2024,Club
+13,MLS 2024,Male,USA,2024,Club
+14,Brasileirao Serie A 2024,Male,Brazil,2024,Club
+15,UEFA Europa League 2023/24,Male,Europe,2024,ClubInternational
+16,FA Cup 2023/24,Male,England,2024,Club
+17,Copa del Rey 2023/24,Male,Spain,2024,Club
+18,DFB Pokal 2023/24,Male,Germany,2024,Club
+19,AFC Champions League 2023/24,Male,Asia,2024,ClubInternational
+20,Africa Cup of Nations 2023,Male,Ivory Coast,2023,National
+21,Saudi Pro League 2023/24,Male,Saudi Arabia,2024,Club
+22,J1 League 2024,Male,Japan,2024,Club
+23,CAF Champions League 2024,Male,Africa,2024,ClubInternational
+24,CONCACAF Champions Cup 2024,Male,North America,2024,ClubInternational
+25,UEFA Super Cup 2024,Male,Europe,2024,ClubInternational
+26,English League Cup 2023/24,Male,England,2024,Club
+27,Italian Coppa Italia 2023/24,Male,Italy,2024,Club
+28,French Coupe de France 2023/24,Male,France,2024,Club
+29,Asian Games Football 2023,Male,China,2023,National
+30,OFC Nations Cup 2024,Male,Oceania,2024,National

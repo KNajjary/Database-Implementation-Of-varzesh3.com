@@ -1,0 +1,11 @@
+MatchReportID,MatchID,DelayedOrNot
+1,1,OnTime
+2,2,OnTime
+3,3,Delayed
+4,4,OnTime
+5,5,OnTime
+6,6,Delayed
+7,7,OnTime
+8,8,OnTime
+9,9,Delayed
+10,10,OnTime
